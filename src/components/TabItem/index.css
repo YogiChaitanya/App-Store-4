@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.btn {
+  font-family: 'Roboto';
+  background-color: transparent;
+  font-size: 20px;
+  color: #7b8794;
+
+  border: none;
+  cursor: pointer;
+  outline: none;
+
+  margin: 10px;
+}
+
+.active-btn {
+  color: #2563eb;
+  text-decoration: underline;
+}

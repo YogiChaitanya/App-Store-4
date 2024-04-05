@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-item-card {
+  list-style-type: none;
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  height: 180px;
+  width: 160px;
+
+  border: none;
+  border-radius: 10px;
+
+  margin: 6px;
+}
+
+.app-img {
+  height: 90px;
+  width: 90px;
+}
+
+.app-name {
+  font-size: 15px;
+}
